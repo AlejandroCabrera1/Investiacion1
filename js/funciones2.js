@@ -1,0 +1,4 @@
+function cargarPagina()
+{
+	document.getElementsByTagName("body")[0].innerHTML="<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis enim, aliquam sed blandit id, porttitor vulputate turpis. Mauris risus felis, congue quis blandit in, laoreet et magna. Ut fringilla id risus vitae hendrerit. Proin tristique, ligula ac condimentum pharetra, nulla elit iaculis augue, quis pellentesque lorem sem a diam. Nullam eros erat, sodales vel metus tempor, maximus pulvinar ligula. Nulla rhoncus libero erat, at consequat justo volutpat a. Pellentesque tempus tortor eu elit euismod tristique. Proin dictum, eros ac mollis egestas, lectus felis suscipit nisl, sit amet vehicula purus nunc eu massa. Duis non ex quis massa vehicula consequat. Curabitur porttitor nisl eu leo dapibus, non scelerisque diam blandit. Integer ut nisi non nisl ultrices varius. Vivamus leo elit, pretium vel sem at, dapibus consequat nibh. Aliquam eget bibendum ipsum.</p>";
+}
